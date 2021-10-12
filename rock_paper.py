@@ -74,9 +74,6 @@ while True:
         
         aiScore += 1
 
-
-
-
 speak(f'Player 1 score: {pScore}')
 print(f'Player 1 score: {pScore}')
 speak(f'ai score: {aiScore}')
